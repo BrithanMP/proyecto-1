@@ -5,5 +5,7 @@
 grupo 10-3 de Aplicaciones Mòviles
 
 # lemguajes de programaciòn
-- kotilin
+- kotlin
 - myaql
+
+![Logo Kotlin](imagenes/kotlin_Logo.png)
